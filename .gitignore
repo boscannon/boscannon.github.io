@@ -2,3 +2,7 @@
 composer.phar
 /vendor/
 composer.lock
+
+
+####vi
+*.swp
